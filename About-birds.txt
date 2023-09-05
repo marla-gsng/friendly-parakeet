@@ -1,0 +1,2 @@
+This shall be the start to a stories about birds. 
+Please write all your stories in this file.
